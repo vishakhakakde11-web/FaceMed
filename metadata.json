@@ -1,0 +1,7 @@
+{
+  "name": "Patient Record Facial Recognition",
+  "description": "A web application that uses facial detection to identify patients and display their medical records. This app demonstrates a UI flow for patient identification using a camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
